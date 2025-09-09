@@ -14,6 +14,7 @@ Proyecto Fundamentos Básicos Python
   
 
 2. Funcionalidades
+
   Búsqueda de datos por departamento, municipio y cultivo
   Visualización de resultados con todos los campos disponibles
   Limitación del número de resultados a mostrar
@@ -26,12 +27,19 @@ Proyecto Fundamentos Básicos Python
   Contiene la interfaz de usuario para interactuar con la aplicación.
 
 3. Requisitos
+
   Python 3.6 o superior
   openpyxl (para manejo de archivos Excel)
   numpy
+
   El documento de excel contiene las siguientes columnas relevanes:
+
   
   B: Departamento
+  
   C: Municipio
+  
   D: Cultivo
+  
   M - AF: Datos de laboratorio (Variables edáficas).
+  
