@@ -1,11 +1,17 @@
 # Parcial-1
 Proyecto Fundamentos Básicos Python
 1. Estructura del Proyecto
+
   | |-- api/ # Módulo para acceso a datos
+
   | |-- data/ # Datos de laboratorio de suelo en Excel
+  
   | |-- ui/ # Interfaz de usuario
+  
   ├── main.py # Punto de entrada principal
+  
   └── README.md # Este archivo
+  
 
 2. Funcionalidades
   Búsqueda de datos por departamento, municipio y cultivo
